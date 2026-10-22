@@ -1,0 +1,9 @@
+.git
+.github
+.tekton
+deploy
+docs
+tests
+*.db
+__pycache__
+.coverage
